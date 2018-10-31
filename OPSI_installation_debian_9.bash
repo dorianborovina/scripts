@@ -6,8 +6,9 @@
 #
 # DO NOT MODIFY THIS CONFIGURATION FILE IN AN ATTEMPT TO INSTALL ON AN EXISTING SYSTEM.
 # INSTALL OPSI ON A FRESH OPERATING SYSTEM ONLY!!!
-
-
+#
+# This script will help you to install the OPSI on the clean Debian 9.
+# Nothing fancy inside, just automation of the manual setup.
 
 
 #Preparations, Samba download, adding sources on the opsi.list
